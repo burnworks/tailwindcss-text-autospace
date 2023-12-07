@@ -8,7 +8,7 @@ Install the plugin from npm:
 
 ```sh
 # Using npm
-npm install tailwindcss-text-autospace
+npm install -D tailwindcss-text-autospace
 
 # Using Yarn
 yarn add tailwindcss-text-autospace
