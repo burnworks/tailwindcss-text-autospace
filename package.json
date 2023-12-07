@@ -1,6 +1,6 @@
 {
     "name": "tailwindcss-text-autospace",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tailwind CSS plugin, add text-autospace CSS property.",
     "main": "index.js",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "keywords": [
         "tailwindcss",
         "tailwindcss-plugin",
-        "animation-delay"
+        "text-autospace"
     ],
     "publishConfig": {
         "access": "public"
