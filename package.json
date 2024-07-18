@@ -1,6 +1,6 @@
 {
     "name": "tailwindcss-text-autospace",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Tailwind CSS plugin, add text-autospace CSS property.",
     "main": "index.js",
     "license": "MIT",
