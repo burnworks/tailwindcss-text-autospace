@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* ========================
+tailwindcss-text-autospace
+https://www.npmjs.com/package/tailwindcss-text-autospace
+======================== */
+@utility autospace-normal {
+    text-autospace: normal;
+}
+@utility autospace-none {
+    text-autospace: no-autospace;
+}
+@utility autospace-insert {
+    text-autospace: insert;
+}
+@utility autospace-replace {
+    text-autospace: replace;
+}
+@utility autospace-alpha {
+    text-autospace: ideograph-alpha;
+}
+@utility autospace-numeric {
+    text-autospace: ideograph-numeric;
+}
+@utility autospace-punctuation {
+    text-autospace: punctuation;
+}
+@utility autospace-auto {
+    text-autospace: auto;
+}
+
+/* Usage ========================
+1) Keyword (the following are predefined)
+autospace-normal -> text-autospace: normal;
+autospace-none -> text-autospace: no-autospace;
+autospace-insert -> text-autospace: insert;
+autospace-replace -> text-autospace: replace;
+autospace-alpha -> text-autospace: ideograph-alpha;
+autospace-numeric -> text-autospace: ideograph-numeric;
+autospace-punctuation -> text-autospace: punctuation;
+autospace-auto -> text-autospace: auto;
+======================== */
+
+/* end of tailwindcss-text-autospace setting */

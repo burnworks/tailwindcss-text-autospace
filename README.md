@@ -2,6 +2,10 @@
 
 Tailwind CSS plugin, add text-autospace CSS property.
 
+> [!NOTE]
+> With Tailwind CSS v4, you can now define custom properties directly in your CSS file without using any plugins.
+> If you’re working with v4.0 or later, please include the contents of `tailwindcss-v4.css`.
+
 ## Installation
 
 Install the plugin from npm:
